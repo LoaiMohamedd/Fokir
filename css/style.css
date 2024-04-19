@@ -124,7 +124,7 @@ body {
   position: relative;
   animation-delay: 1.5s;
 }
-@keyframes moving {
+/* @keyframes moving {
   0% {
     left: 0;
   }
@@ -138,7 +138,7 @@ body {
   100% {
     left: 9%;
   }
-}
+} */
 .main1-text {
   font-family: "Roboto", sans-serif;
   color: white;
