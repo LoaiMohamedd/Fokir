@@ -168,7 +168,7 @@ body {
     top: -93.5px;
   }
 }
-.text1::before {
+/* .text1::before {
   content: attr(data-text);
   top: 0;
   left: 5;
@@ -197,8 +197,8 @@ body {
   100% {
     width: 0%;
   }
-}
-.text2::before {
+} */
+/* .text2::before {
   content: attr(data-text);
   top: 0;
   left: 0;
@@ -227,7 +227,11 @@ body {
   0% {
     width: 0%;
   }
-}
+} */
+                                                     /* 
+                                                   الكومنتس الي فوق للانيميشن ل كلمة 
+                                 Professional Web 
+                                                      */
 /* ===================================== */
 .sec2 {
   height: 90%;
